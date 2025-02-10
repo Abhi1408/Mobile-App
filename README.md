@@ -1,5 +1,5 @@
 # Mobile Application Development Semester Project
-As part of a semester project in the lecture Mobile Application Development at Technische Hochschule Lübeck in 2018, every student had to build a small todo app with Android. Jump to the [project requirements](#requirements-to-pass-the-lecture), to get a feeling for what had to be done in the project. Please note that all aspects regarding the UI were left to the students.
+Jump to the [project requirements](#requirements-to-pass-the-lecture), to get a feeling for what had to be done in the project. Please note that all aspects regarding the UI were left to the students.
 
 ## Getting Started
 
